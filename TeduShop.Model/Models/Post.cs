@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using TeduShop.Model.Abstract;
+using TeduShop.Model.Abstracts;
 
 namespace TeduShop.Model.Models
 {
